@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/rga_test.dir/rga_test.cpp.o  -o rga_test -rdynamic ../libvproc_rga.a ../../../../utils/libutils.a ../../../base/libmpp_base.a ../../../../osal/libosal.a -lpthread 

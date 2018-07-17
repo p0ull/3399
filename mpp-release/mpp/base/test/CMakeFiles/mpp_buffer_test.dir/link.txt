@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/mpp_buffer_test.dir/mpp_buffer_test.c.o  -o mpp_buffer_test -rdynamic ../libmpp_base.a ../../../osal/libosal.a -lpthread 

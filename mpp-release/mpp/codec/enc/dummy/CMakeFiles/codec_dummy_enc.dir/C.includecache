@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/firefly/Desktop/gstreamer-rockchip/mpp-release/mpp/codec/enc/dummy/dummy_enc_api.c
+dummy_enc_api.h
+/home/firefly/Desktop/gstreamer-rockchip/mpp-release/mpp/codec/enc/dummy/dummy_enc_api.h
+
+mpp/codec/inc/dummy_enc_api.h
+

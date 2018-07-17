@@ -1,0 +1,13 @@
+mpp_log_test 2 0.00675094
+mpp_env_test 2 0.00572252
+mpp_mem_test 2 0.00513399
+mpp_time_test 2 0.0111455
+mpp_platform_test 2 0.00481606
+mpp_runtime_test 2 0.00503492
+mpp_thread_test 2 1.34451
+mpp_task_test 2 0.240502
+mpp_buffer_test 2 0.00360906
+mpp_packet_test 2 0.00266349
+rga_test 2 0.00282848
+iep_test 2 0.00255358
+---
